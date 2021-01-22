@@ -1,4 +1,4 @@
-# Welcome to oceanbed-frontend2.0 👋
+# Oceanbed-frontend2.0
 
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg?cacheSeconds=2592000)
 
